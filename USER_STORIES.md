@@ -23,3 +23,10 @@ A button to take back to home page.
 Redux call to increase the expenditure amount dynamically.
 
 
+Acceptance Crieteria : -
+
+For success scenario, use the card number present in the src/data/dummydata.js
+For Failur scenario, use random card number.
+
+
+
