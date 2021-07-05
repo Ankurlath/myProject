@@ -31,7 +31,6 @@ Aspire coding test
 5. Connect the emulator device or external device(using USB or wifi) to your machine.
 
 6. In order to run the application Type the following command
-    -react-native start
-	-react-native run-android/react-native run-ios
+    -react-native start in one terminal and react-native run-android/react-native run-ios in another terminal
 
 
